@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "pp.png"
+  avatar           : "images/photo.JPG"
   name             : "Hanife Sen"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in Computer Science"
